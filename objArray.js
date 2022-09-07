@@ -28,7 +28,7 @@ articulos.push(espPro, susFija, susRegC, susRegD, susNeu68, susNeu610, susNeu78,
 
 
 
-let usuario = prompt("Por favor, ingrese su nombre de usuraio!");
+let usuario = prompt("Por favor, ingrese su nombre de usuario!");
 let productoSelecionado = parseInt(prompt("hola " + usuario + ", eliga los productos y servicios para su compra : " + "\n" +
     "1 - Espirales Progresivos " + `\n ` +
     "2 - Suspension Fija" + `\n` +
